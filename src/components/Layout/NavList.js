@@ -11,7 +11,7 @@ const NavList = (props) => {
         return (
           <NavItem key={i} className={navItem.className}>
             <NavLink
-              to={navItem.path}
+              to={`sil-react-template${navItem.path}`}
               className='nav-link'
               onClick={isOpen && navClick}
             >

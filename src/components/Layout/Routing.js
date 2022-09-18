@@ -12,10 +12,10 @@ const Routing = () => {
 
     return(
         <Routes>
-            <Route path='/' element={<HomePage/>}/>
-            <Route path='about' element={<AboutPage/>}/>
-            <Route path='for-developers' element={<AboutPage/>}/>
-            <Route path='search-result'>
+            <Route path='sil-react-template/' element={<HomePage/>}/>
+            <Route path='sil-react-template/about' element={<AboutPage/>}/>
+            <Route path='sil-react-template/for-developers' element={<AboutPage/>}/>
+            <Route path='sil-react-template/search-result'>
                 <Route index element={<SearchResultPage/>}/>
                 <Route path='detail-page' element={<DetailPage/>}/>
             </Route>

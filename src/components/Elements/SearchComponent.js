@@ -21,7 +21,7 @@ const SearchComponent = (props) => {
           allowClear
           placeholder='Search something...'
         />
-        <Link to='/search-result' className='search-btn'><BsSearch/></Link>
+        <Link to='/sil-react-template/search-result' className='search-btn'><BsSearch/></Link>
       </Input.Group>
 
       

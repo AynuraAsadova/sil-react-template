@@ -8,7 +8,7 @@ const Layout = (props) => {
   const [headerStyle, setHeaderStyle] = useState();
 
   useEffect(() => {
-    if (location.pathname !== "/") {
+    if (location.pathname !== "/sil-react-template/") {
       setHeaderStyle("header_style");
     }else{
       setHeaderStyle("");

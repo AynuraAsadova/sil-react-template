@@ -82,12 +82,12 @@ const Header = (props) => {
               <span className='line_menu'></span>
             </span>
           </NavbarToggler>
-          <NavbarBrand href='/' className='logo'>
+          <NavbarBrand href='/sil-react-template/' className='logo'>
             DOMAINFINDER
           </NavbarBrand>
 
-          {location.pathname !== "/" &&
-            location.pathname !== "/search-result" && (
+          {location.pathname !== "/sil-react-template/" &&
+            location.pathname !== "/sil-react-template/search-result" && (
               <SearchComponent searchStyle={"header_search"} />
             )}
 
