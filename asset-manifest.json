@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sil-react-template/static/css/main.87801009.css",
-    "main.js": "/sil-react-template/static/js/main.2db67ae0.js",
+    "main.js": "/sil-react-template/static/js/main.d54c2502.js",
     "static/js/787.fa3c4679.chunk.js": "/sil-react-template/static/js/787.fa3c4679.chunk.js",
     "static/media/AboutImage.png": "/sil-react-template/static/media/AboutImage.4858bd60487cceb031a2.png",
     "static/media/Inter-ExtraBold.woff": "/sil-react-template/static/media/Inter-ExtraBold.64fb1a677308ca97dc65.woff",
@@ -16,11 +16,11 @@
     "static/media/Group52.png": "/sil-react-template/static/media/Group52.29811886c68967eaae34.png",
     "index.html": "/sil-react-template/index.html",
     "main.87801009.css.map": "/sil-react-template/static/css/main.87801009.css.map",
-    "main.2db67ae0.js.map": "/sil-react-template/static/js/main.2db67ae0.js.map",
+    "main.d54c2502.js.map": "/sil-react-template/static/js/main.d54c2502.js.map",
     "787.fa3c4679.chunk.js.map": "/sil-react-template/static/js/787.fa3c4679.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87801009.css",
-    "static/js/main.2db67ae0.js"
+    "static/js/main.d54c2502.js"
   ]
 }
